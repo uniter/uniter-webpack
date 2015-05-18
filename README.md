@@ -6,6 +6,7 @@ A demo of bundling a Uniter-based app using Webpack.
 To compile and run:
 
 ```javascript
+npm install
 npm run build
 ```
 
