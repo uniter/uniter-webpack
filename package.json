@@ -1,0 +1,24 @@
+{
+  "name": "uniter-webpack",
+  "version": "1.0.0",
+  "description": "Demo of bundling a Uniter app with Webpack",
+  "main": "app/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "webpack",
+    "uniter",
+    "php"
+  ],
+  "author": "asmblah",
+  "license": "MIT",
+  "dependencies": {
+    "uniter": "^0.2.2"
+  },
+  "devDependencies": {
+    "node-libs-browser": "^0.5.0",
+    "transform-loader": "^0.2.2",
+    "webpack": "^1.9.7"
+  }
+}
