@@ -5,7 +5,7 @@
  */
 'use strict';
 
-var uniter = require('uniter/js/main'),
+var uniter = require('uniter'),
     phpEngine = uniter.createEngine('PHP'),
     output = document.getElementById('output');
 

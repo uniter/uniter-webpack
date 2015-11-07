@@ -14,7 +14,7 @@
   "author": "asmblah",
   "license": "MIT",
   "dependencies": {
-    "uniter": "^0.2.2"
+    "uniter": "~2"
   },
   "devDependencies": {
     "json-loader": "^0.5.3",
